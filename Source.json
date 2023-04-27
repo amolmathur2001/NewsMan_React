@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Credit Suisse bank: UBS said to be in takeover talks with troubled rival",
+    "description": "Emergency talks are reported in Zurich as regulators seek a deal for Credit Suisse before Monday.",
+    "url": "http://www.bbc.co.uk/news/business-65004605",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C8CB/production/_129030415_gettyimages-1248367326.jpg",
+    "publishedAt": "2023-03-19T02:07:15.4462694Z",
+    "content": "Switzerland's biggest bank, UBS, is reported to be in advanced talks to buy all or part of its troubled rival Credit Suisse. \r\nShares in Credit Suisse have fallen sharply in recent days after it said… [+1333 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Match of the Day: 'Great to be here', says Lineker as he makes TV return",
+    "description": "Lineker hosts BBC sports coverage for first time after being taken off air in an impartiality row.",
+    "url": "http://www.bbc.co.uk/news/uk-65003113",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37D4/production/_129029241_p0f9llsq.jpg",
+    "publishedAt": "2023-03-19T00:52:17.477594Z",
+    "content": "Media caption, Watch: Gary Lineker says \"it's great to be here\" as he returns to present BBC football following suspension\r\nGary Lineker has returned to presenting BBC football coverage for the first… [+3274 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "French pension reforms: Is Macron's government doomed by crisis?",
+    "description": "No-confidence motions face the Macron government as it tries to force its unpopular changes into law.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64986741",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7802/production/_129022703_parisprot.jpg",
+    "publishedAt": "2023-03-19T00:37:17.1806377Z",
+    "content": "\"What this crisis goes to show,\" veteran political commentator Alain Duhamel said recently, \"is that there are two Frances out there. They live in completely separate mental worlds, and find it impos… [+5298 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Southern Ecuador earthquake kills at least 12",
+    "description": "A strong earthquake off Ecuador's southern coast left people trapped in collapsed houses.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-65004163",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5783/production/_129030422_c837b06c2a74fe08a9b179c0560740eae272962a.jpg",
+    "publishedAt": "2023-03-18T23:07:18.4605884Z",
+    "content": "At least 12 people have died after a powerful earthquake struck the southern coast of Ecuador.\r\nBuildings have been damaged in several cities following the 6.7 magnitude quake, which hit at around mi… [+1723 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump says he expects to be arrested on Tuesday",
+    "description": "Prosecutors in New York are considering charges over alleged hush money payments to an ex-porn star.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65000325",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/29A6/production/_129026601_gettyimages-1473376899.jpg",
+    "publishedAt": "2023-03-18T14:07:17.3989019Z",
+    "content": "Former US President Donald Trump says he is expecting to be arrested on Tuesday in a case about alleged hush money paid to an ex-porn star.\r\nMr Trump called on his supporters to protest against such … [+2699 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Abortion pills banned in Wyoming as Texas judge considers nationwide decision",
+    "description": "The ban comes as a Texas judge considers revoking nationwide approval of a common abortion pill.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64998920",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D1C/production/_129025470_gettyimages-1248336813.jpg",
+    "publishedAt": "2023-03-18T09:22:15.6648792Z",
+    "content": "Wyoming has become the first US state to ban abortion pills after its governor signed a bill that made prescribing or selling them illegal.\r\nViolating it is punishable by up to six months in jail and… [+2603 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Thousands may have lost out to crypto trading app",
+    "description": "Experts who investigated iEarn Bot say it could be part of one of the biggest-ever crypto scandals.",
+    "url": "http://www.bbc.co.uk/news/technology-64939146",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1809D/production/_129016489_gettyimages-874781132.jpg",
+    "publishedAt": "2023-03-18T00:37:15.0844048Z",
+    "content": "Thousands of people are believed to have lost their savings after investing in a cryptocurrency trading app called iEarn Bot. \r\nExperts who have investigated the company say it could be one of the la… [+6477 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "South Lake Tahoe: The mountain town buried by California winter chaos",
+    "description": "Atmospheric river storms have buried South Lake Tahoe in a snowfall for the history books.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64995904",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA66/production/_129022634_gettyimages-1474000492.jpg",
+    "publishedAt": "2023-03-17T23:37:21.1491871Z",
+    "content": "Few places experience both the beauty and the fury of California's natural world like South Lake Tahoe. The picturesque city of 21,000, nestled high in the Sierra Nevada mountains and famed for its s… [+5803 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lance Reddick, star of The Wire and John Wick, dies aged 60",
+    "description": "Reddick, who played Charon in the John Wick action-thriller movies, died of natural causes.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64959805",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D680/production/_129021945_gettyimages-1169298734.jpg",
+    "publishedAt": "2023-03-17T20:07:22.4339729Z",
+    "content": "Lance Reddick, an actor in the popular HBO series The Wire, has died aged 60, according to US media outlets. \r\nReddick was also known for starring as Charon in the John Wick action-thriller movie fra… [+996 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hunter Biden sues repairman over release of personal data from laptop",
+    "description": "The US president's embattled son is under renewed scrutiny from Republicans in Congress.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64991918",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/130A7/production/_129019977_gettyimages-520762120.jpg",
+    "publishedAt": "2023-03-17T19:52:24.5078892Z",
+    "content": "Hunter Biden, the US president's embattled son, is suing a Delaware computer repair shop owner over the handling of his private laptop.\r\nMr Biden and his attorneys allege John Paul Mac Isaac illegall… [+2867 chars]"
+    }
+]
+
+}
